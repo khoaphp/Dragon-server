@@ -1,0 +1,6 @@
+{
+    "domain":"http://localhost:3000",
+    "title": "Dragon Server",
+    "secretTokenNo":")(A*)d12;hoOASHD:OHSDH*(@;ASLKJD:ADHo2u0U)@!*lkjl",
+    "connectionString":"mongodb://localhost:27017/DragonMean_01"
+}
